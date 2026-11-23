@@ -26,7 +26,7 @@ Cette approche permettra d'avoir rapidement un support concret à présenter à 
 ## 3. Backlog IHM
 
 ### Fondations
-- [ ] Identifier les besoins de l'opérateur : ([voir détails](docs/proposition_ihm.md)
+- [ ] Identifier les besoins de l'opérateur : ([voir détails](docs/proposition_ihm.md))
 - [ ] Définir les données nécessaires à l'IHM.
 - [ ] Créer une base de données fictive pour les premiers essais.
 - [ ] Réaliser une première maquette de l'interface.
