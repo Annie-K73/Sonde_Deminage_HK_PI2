@@ -1,7 +1,7 @@
 # Implémentation IHM – Sonde de déminage 2.0
 
 **Autrice :** Annie KADIAMBU (CCC A4)  
-**Dernière mise à jour :** 17/11/2026
+**Dernière mise à jour :** 23/11/2026
 
 ## 1. Démarche de développement
 
@@ -26,7 +26,7 @@ Cette approche permettra d'avoir rapidement un support concret à présenter à 
 ## 3. Backlog IHM
 
 ### Fondations
-- [ ] Identifier les besoins de l'opérateur.
+- [ ] Identifier les besoins de l'opérateur : ([voir détails](docs/proposition_ihm.md)
 - [ ] Définir les données nécessaires à l'IHM.
 - [ ] Créer une base de données fictive pour les premiers essais.
 - [ ] Réaliser une première maquette de l'interface.
